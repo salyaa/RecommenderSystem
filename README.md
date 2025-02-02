@@ -1,1 +1,3 @@
-# RecommenderSystem
+README
+
+In the folder provided, the report for our group (Project2_DIS.pdf) can be found along with all the code for our different methods. There are two subfolders, the one titled 'Final Method' is the SVD method mentioned in the report and the one that is submitted on Kaggle obtaining the lowest RMSE score. The other subfolder called 'Other Methods' includes the other methods mentioned in the report that are not our final Kaggle submission (Linear Regression, NCF, Collaborative Filtering). Included in this subfolder is the initial code for our attempt to use an API to add book summaries to our dataset, however it does not run very well.
